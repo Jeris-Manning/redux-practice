@@ -1,0 +1,22 @@
+{
+  "name": "redux-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeris-Manning/redux-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeris-Manning/redux-practice/issues"
+  },
+  "homepage": "https://github.com/Jeris-Manning/redux-practice#readme",
+  "dependencies": {
+    "create-react-app": "^3.3.0"
+  }
+}
